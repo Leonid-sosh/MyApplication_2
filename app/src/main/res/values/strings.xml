@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">My_First_Application_2</string>
-    <string name="hello">Hello world</string>
-    <string name="btn1">Add to list</string>
-    <string name="hellojava">Hello From Java!</string>
-    <string name="Text_updated">Button pressed!</string>
-    <string name="edtxt">Write something...</string>
+    <string name="app_name">Список</string>
+    <string name="hello">Привет мир!</string>
+    <string name="btn1">Добавить в список</string>
+    <string name="hellojava">Привет от Джавы!</string>
+    <string name="Text_updated">Кнопкп нажата!</string>
+    <string name="edtxt">Напишите что-нибудь...</string>
 
 </resources>

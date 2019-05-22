@@ -45,9 +45,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         context = MainActivity.this;
-        String title = "Delete item?";
-        String button1String = "Yes";
-        String button2String = "Cancel";
+        String title = "Удалить запись?";
+        String button1String = "Да";
+        String button2String = "Отмена";
 
         ad = new AlertDialog.Builder(context);
         ad.setTitle(title);  // заголовок
